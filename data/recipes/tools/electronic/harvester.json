@@ -1,0 +1,1 @@
+{"requiredArray":["Circuit Board","Steel Ingot","Iron Ingot"], "amountsArray":[20,20,50], "returns":"Harvester", "amount":1, "Ptime":5, "workstation":"Electronics Workbench","property":"damage replace","damage":"1 steel scythe"}

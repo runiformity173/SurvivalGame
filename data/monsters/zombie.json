@@ -1,0 +1,10 @@
+{
+  "name":"Zombie",
+  "raritypercent":20,
+  "health":20,
+  "armor":0,
+  "damage":5,
+  "loottable":["Rotted Flesh"],
+  "amounttable1":[0],
+  "amounttable2":[4]
+}

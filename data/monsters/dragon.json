@@ -1,0 +1,10 @@
+{
+  "name":"Dragon",
+  "raritypercent":1,
+  "health":50,
+  "armor":12,
+  "damage":30,
+  "loottable":["Dragon Scales","Dragon Breath"],
+  "amounttable1":[4,0],
+  "amounttable2":[8,1]
+}

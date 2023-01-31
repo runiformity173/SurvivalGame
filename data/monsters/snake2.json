@@ -1,0 +1,10 @@
+{
+  "name":"Constrictor Snake",
+  "raritypercent":10,
+  "health":15,
+  "armor":4,
+  "damage":10,
+  "loottable":["Snake Scales"],
+  "amounttable1":[0],
+  "amounttable2":[4]
+}
