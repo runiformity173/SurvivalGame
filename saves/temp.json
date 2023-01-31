@@ -1,0 +1,66 @@
+{
+    "inventory": {
+        "Fiber": 10,
+        "Stone": 5,
+        "Stone Axe": 1,
+        "Gunpowder": 1,
+        "Rotted Flesh": 7,
+        "Stone Sickle": 1,
+        "Stone Sword": 1,
+        "Bone": 1,
+        "Iron Ore": 27,
+        "Iron Pickaxe": 1
+    },
+    "discovered": [
+        "Fiber",
+        "Wood",
+        "Wooden Pickaxe",
+        "None",
+        "Stone",
+        "Stone Pickaxe",
+        "Stone Axe",
+        "Wooden Axe",
+        "Furnace",
+        "Mortar and Pestle",
+        "Charcoal",
+        "Gunpowder",
+        "Rotted Flesh",
+        "Stone Sickle",
+        "Stone Sword",
+        "Wooden Sword",
+        "Bandages",
+        "Cloth Shirt",
+        "Cloth Footwraps",
+        "Cloth Headwrap",
+        "Cloth Gloves",
+        "Bone",
+        "Reinforced Bone",
+        "Iron Ore",
+        "Iron Ingot",
+        "Smithy",
+        "Iron Pickaxe"
+    ],
+    "health": 15,
+    "armor": {
+        "head": 1,
+        "chest": 1,
+        "feet": 1,
+        "hands": 1
+    },
+    "heal": 3,
+    "damage": 10,
+    "workstations": [
+        "Furnace",
+        "Mortar and Pestle",
+        "Smithy"
+    ],
+    "crafts": {
+        "done": {},
+        "counts": {
+            "Bone Crown": 1
+        },
+        "ending": {
+            "Bone Crown": 1660677273.897833
+        }
+    }
+}

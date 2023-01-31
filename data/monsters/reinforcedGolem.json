@@ -1,0 +1,10 @@
+{
+  "name":"Reinforced Golem",
+  "raritypercent":10,
+  "health":30,
+  "armor":8,
+  "damage":20,
+  "loottable":["Steel Ingot"],
+  "amounttable1":[1],
+  "amounttable2":[4]
+}
