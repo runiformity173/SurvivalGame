@@ -1,0 +1,38 @@
+{
+  "resources":[
+    "Fiber",
+    "Wood",
+    "Stone",
+    "Iron Ore",
+    "Mithril Compound",
+    "Copper Ore",
+    "Quartz"
+],
+  "baseR":[
+    5,
+    5,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "boostype":[
+    ["Stone Sickle", "Iron Sickle", "Iron Scythe", "Steel Sickle", "Steel Scythe","Harvester"],
+    ["Wooden Axe", "Stone Axe", "Iron Axe", "Iron Greataxe", "Steel Axe", "Steel Greataxe"],
+    ["Wooden Pickaxe", "Stone Pickaxe", "Iron Pickaxe", "Iron Greatpick", "Steel Pickaxe", "Steel Greatpick", "Drill"],
+    ["Stone Pickaxe", "Iron Pickaxe", "Iron Greatpick", "Steel Pickaxe", "Steel Greatpick", "Drill"],
+    ["Steel Greatpick", "Drill"],
+    ["Stone Pickaxe", "Iron Pickaxe", "Iron Greatpick", "Steel Pickaxe", "Steel Greatpick", "Drill"],
+    ["Steel Greatpick", "Drill"]
+  ],
+  "boostamt":[
+    [3,5,8,8,10,20],
+    [3,5,8,10,10,13],
+    [5,8,12,15,15,18,32],
+    [2,4,6,6,8,16],
+    [3,6],
+    [2,4,6,6,8,16],
+    [3,6]
+  ]
+}

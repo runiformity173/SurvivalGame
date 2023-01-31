@@ -1,0 +1,41 @@
+{
+    "inventory": {
+        "Fiber": 18,
+        "Wood": 19,
+        "Stone Pickaxe": 1,
+        "Stone": 3,
+        "Iron Ore": 1,
+        "Iron Ingot": 20
+    },
+    "discovered": [
+        "Fiber",
+        "Wood",
+        "Wooden Pickaxe",
+        "Stone",
+        "Stone Pickaxe",
+        "Iron Ore",
+        "Iron Ingot",
+        "Furnace",
+        "Cloth Headwrap",
+        "Cloth Gloves",
+        "Cloth Shirt",
+        "Cloth Footwraps"
+    ],
+    "health": 20,
+    "armor": {
+        "head": 1,
+        "chest": 1,
+        "feet": 1,
+        "hands": 1
+    },
+    "heal": 1,
+    "damage": 4,
+    "workstations": [
+        "Furnace"
+    ],
+    "crafts": {
+        "done": {},
+        "counts": {},
+        "ending": {}
+    }
+}

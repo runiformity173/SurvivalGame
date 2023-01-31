@@ -1,0 +1,10 @@
+{
+  "name":"Venomous Snake",
+  "raritypercent":10,
+  "health":5,
+  "armor":2,
+  "damage":10,
+  "loottable":["Snake Scales"],
+  "amounttable1":[0],
+  "amounttable2":[2]
+}

@@ -1,0 +1,10 @@
+{
+  "name":"Ghoul",
+  "raritypercent":15,
+  "health":20,
+  "armor":2,
+  "damage":10,
+  "loottable":["Ghoul Skin"],
+  "amounttable1":[0],
+  "amounttable2":[2]
+}

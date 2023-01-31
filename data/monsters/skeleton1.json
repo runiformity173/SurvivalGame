@@ -1,0 +1,10 @@
+{
+  "name":"Skeleton",
+  "raritypercent":20,
+  "health":15,
+  "armor":2,
+  "damage":5,
+  "loottable":["Bone"],
+  "amounttable1":[0],
+  "amounttable2":[4]
+}
